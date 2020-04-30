@@ -49,7 +49,7 @@ def PD_main():
 			print("Investigation Status")
 			dfName="Investigation_Status.csv"
 	
-		# df.to_csv(dfName,index=False)
+		df.to_csv(dfName,index=False)
 
 if __name__ == "__main__":
 	plt.rcParams['toolbar'] = 'None'
