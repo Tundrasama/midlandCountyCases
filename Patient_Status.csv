@@ -1,7 +1,7 @@
 Patient Status,Cases
-Hospital,32
-Nursing /Rehab Facility,0
-Home Isolation,28
+Hospital,33
+Nursing /Rehab Facility,2
+Home Isolation,29
 Completed Isolation,0
-Recovered,35
+Recovered,39
 Death,12
